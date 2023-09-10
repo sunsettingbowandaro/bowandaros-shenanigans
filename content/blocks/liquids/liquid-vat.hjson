@@ -1,6 +1,7 @@
 name: Liquid Vat
 health: 580
 type: LiquidRouter
+category: liquid
 description: Stores a medium amount of fluids.
 size: 3
 requirements: [
