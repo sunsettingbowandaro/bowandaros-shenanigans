@@ -4,9 +4,14 @@ type: LiquidRouter
 category: liquid
 description: Stores a medium amount of fluids.
 size: 3
+envEnabled: 1
+solid: true
 requirements: [
   beryllium/35
   tungsten/20
 ]
 liquidCapacity: 1800
 liquidPadding: 2
+research: reinforced-liquid-container
+researchCostMultiplier: 0.1
+hiddenOnPlanets: serpulo
